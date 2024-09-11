@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(30, 100, 115);
+}
+.p1 {
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    border: 2px solid rgb(34, 34, 51);
+    background-color: aqua;
+    text-align: justify;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.p2{
+    color: rgb(0, 0, 0);
+    font-family: 'Time New Roman';
+    font-size: 20px;
+    border: 2px solid rgb(34, 34, 51);
+    background-color: aqua;
+    text-align: justify;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+
+.ol{
+    font-size: 18px;
+    font-family: 'Time New Roman';
+}
+
+.map{
+    border: 2px solid rgb(34,34, 51);
+}
